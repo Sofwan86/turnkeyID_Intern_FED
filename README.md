@@ -5,9 +5,11 @@
 Use terminal
 
 ```npm
-npm install reactjs
-npx create-react-app turnkey-intern
+npm install -g create-react-app
+create-react-app turnkey-intern
 goto ./turnkeyID-intern
+replace file turnkeyID_Intern_FED-new
+
 npm install redux
 npm install react-redux
 npm install axios
@@ -16,7 +18,8 @@ npm install react-router-dom
 npm install redux-form
 npm install react-bootstrap-table-next
 npm install sweetalert
-npm install
+npm install @fortawesome/free-solid-svg-icons
+
 ```
 
 ## Usage
