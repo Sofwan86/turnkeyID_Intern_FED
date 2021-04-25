@@ -6,7 +6,7 @@ Use terminal
 
 ```npm
 npm install reactjs
-npx create-react-app turnkeyId-intern
+npx create-react-app turnkey-intern
 goto ./turnkeyID-intern
 npm install redux
 npm install react-redux
