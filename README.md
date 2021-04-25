@@ -30,9 +30,8 @@ npm test
 ```demo app
 https://drive.google.com/file/d/1Ke5BDRneBVxLblLSWiUQQnSicebiiSE_/view?usp=sharing
 ```
-
-```<a href="https://drive.google.com/file/d/1Ke5BDRneBVxLblLSWiUQQnSicebiiSE_/view?usp=sharing" title="this">
-  demo
-```
 ## License
 @Sofwan86
+
+<a href="https://drive.google.com/file/d/1Ke5BDRneBVxLblLSWiUQQnSicebiiSE_/view?usp=sharing" title="this">
+  demo
