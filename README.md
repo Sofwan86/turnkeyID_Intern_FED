@@ -26,12 +26,9 @@ npm start
 
 ```test
 npm test
-
-```demo app
-https://drive.google.com/file/d/1Ke5BDRneBVxLblLSWiUQQnSicebiiSE_/view?usp=sharing
 ```
 ## License
 @Sofwan86
-
+## Demo App
 <a href="https://drive.google.com/file/d/1Ke5BDRneBVxLblLSWiUQQnSicebiiSE_/view?usp=sharing" title="this">
   demo
